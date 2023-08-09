@@ -1,0 +1,321 @@
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\source\repos\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - Kopya urun tmm\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 9,13\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 15,56\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 27.07-16.15\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 28.07-22.59 - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 31.07-11.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon - 1.8-01.30\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.manifest
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.application
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe.manifest
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.application
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.manifest
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.application
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe.manifest
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.application
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\FireSharp.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.App.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması - Kopya\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.LisansForm.resources
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\FireSharp.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.App.config
+C:\Users\Acer\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.LisansForm.resources
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.config
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe.manifest
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.application
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Kaya Mobilya ve Dekorasyon.pdb
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\FireSharp.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.App.config
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.AssemblyReference.cache
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.anaForm.resources
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.girisForm.resources
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.LisansForm.resources
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.Properties.Resources.resources
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya_Mobilya_ve_Dekorasyon.sifreDegistirmeForm.resources
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.GenerateResource.cache
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CoreCompileInputs.cache
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe.manifest
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.application
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.csproj.CopyComplete
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.exe
+C:\Users\Caner\Desktop\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon Muhasebe Uygulaması\Kaya Mobilya ve Dekorasyon\obj\Debug\Kaya Mobilya ve Dekorasyon.pdb
